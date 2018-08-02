@@ -4,6 +4,7 @@ I’m an Experimental Psychologist by training, and I use brain imaging to answe
 
 ### Current Neuroimaging Projects
 [wip] Enantiomorphic Brain Extraction
+
 [wip] Stroke Nonlinear Normalization
 
 ### Useful Neuroimaging Code Snippets
