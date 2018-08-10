@@ -3,9 +3,18 @@ Google scholar H-index: 4 --
 Total Citations: 83
 
 ## 2018
+Gao, C., Conte, S., Richards, J. E., Xie, W., **Hanayik, T**.(2018). The Neural Sources of N170: Understanding Timing of Activation in Face-Selective Areas (under review).
+
+![journal article](https://img.shields.io/badge/EEG--fMRI--face processing-Submitted-orange.svg)
+
 **Hanayik, T**., Yourganov, G., Newman-Norlund, R., Gibson, M., & Rorden, C. (2018). Simultaneity Judgements Activate a Bilateral Fronto-Parietal Timing System (under review).
 
 ![journal article](https://img.shields.io/badge/fMRI--Perception--Vision-Submitted-orange.svg)
+
+Patoilo, M., **Hanayik, T**., Newman-Norlund, R. D., McCall, M., Rorden, C. (2018). The Effect of Prior Concussions on Cognitive Performance in College Athletes.
+
+![journal article](https://img.shields.io/badge/Concussion--cognition--athletes-Submitted-orange.svg)
+
 
 Shahid, H., Sebastian, R., Tippett, D. C., Saxena, S., Wright, A., **Hanayik, T**., ... & Hillis, A. E. (2018, February). Regional brain dysfunction associated with semantic errors in comprehension. In Seminars in speech and language (Vol. 39, No. 01, pp. 079-086). Thieme Medical Publishers.
 
