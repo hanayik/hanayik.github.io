@@ -20,4 +20,8 @@ In everyday life, we often make judgments regarding the sequence of events, for 
 
 This software is designed to find the fusion threshold between any two colors (e.g. match the brightness values of of two colors). Useful for visual perception experiments. 
 
+## Large scale high performance computing
 
+### [SLURM notes](slurm-notes.md)
+
+Notes and examples for MRI data processing on a SLURM scheduler system
